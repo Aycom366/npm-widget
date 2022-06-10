@@ -1,5 +1,5 @@
 {
-  "name": "zeeh-widget",
+  "name": "zeeh-widgets",
   "version": "1.0.0",
   "description": "A widget for Zeeh",
   "author": "Ayomide",
@@ -33,8 +33,5 @@
   "peerDependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
-  },
-  "dependencies": {
-    "zeeh-widget": "file:zeeh-widget-1.1.1.tgz"
   }
 }
